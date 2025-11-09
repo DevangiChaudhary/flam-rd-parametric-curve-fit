@@ -17,6 +17,7 @@ This stepwise development from simple sorted data GA to robust point-to-curve ma
 M = 0.02999992 <br>
 X = 54.999945 <br>
 L1 = 4.849061 <br>
+\left(\left(t*\cos(0.523597)-e^{0.02999992\left|t\right|}\cdot\sin(0.3t)\sin(0.523597)\ +54.999945\right)\ ,\left(42+\ t*\sin(0.523597)+e^{0.02999992\left|t\right|}\cdot\sin(0.3t)\cos(0.523597)\right)\right)  <br>
 
 ## FILE STRUCTURE
 ```

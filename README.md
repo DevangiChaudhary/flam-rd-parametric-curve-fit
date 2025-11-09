@@ -13,7 +13,7 @@ To speed up the inversion with comparable accuracy, Jacobian-based sensitivity a
 This stepwise development from simple sorted data GA to robust point-to-curve matching and then guided sensitivity optimization illustrates the practical trade-offs of accuracy, assumptions, and computation time in nonlinear parametric inversion.
 
 ## Optimal Parameters <br>
-θ = 29.999947 deg <br>
+θ = 29.999947 deg or 0.523597 rad <br>
 M = 0.02999992 <br>
 X = 54.999945 <br>
 L1 = 4.849061 <br>
